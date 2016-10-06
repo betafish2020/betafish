@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a24cdb4bd53ff8f890698775608b84ab6703fe2">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-RobotCore-release_79879af0e299f991f7edafaa4610f53fec8ee2a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-WirelessP2p-release_3520e0b53633d3fe7d230ea401bca7d30f05c5c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-ModernRobotics-release_0df636d65f641e50b452e795d19a2abfbdf09daf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8bcd8ef93636064d155d8e8ea6541ea7e4280d0">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/gson-2.7_b916b0a9e0cd83ae274f05df824e191415d6541f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="515c9d46e942888cea0521ccc6281b6388c4a598">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/instant-run_2b6f8c60b3f1def7eeed6a5fc2bcc12cfe9dbbe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d964a43f48520428edfadad534fa0a3279deb84">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Hardware-release_07928df53d8b5b603a40a0a3f9f0ce0b830b4622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/Blocks-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5216545889f13d4560613d35d498b2ca2db1d1f">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Blocks-release_d39353caaad8e27c14f07a2c4d8c2e6bc7a18d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15632afee8c14c7c0ba7168d25710c38badee7c8">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_8b66c692e93a6b5ed1b0a3b6d9b46c5ff3ad82e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Analytics-release_14fe24a2059d87e3f4217a168d89819170ec24a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a6cc281519866bbb2d0ac480409212d8d9816d18">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/d2xx_befeaee50238684ac9e0f93b5a938300cb973331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/RobotCore-release/jars/libs/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca5be875a082e7b5f0277a0e85564617b181ae76">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_a057e67c6da3ea704fc4c17b807b17efc1a4d7a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02829169132b13495a819490a23d240b6e1e5eb2">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/instant-run-bootstrap_75c8f5d4aacc5cdaae8a75f1e79bd20d9d9ce04e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/Inspection-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1a3a00c0ec6312741914629ed283101a3301293">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Inspection-release_3579501c255d30e0af0fbeff99cb79cfe3b36fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec068454985de756c760317d9c63c23b3ce2055c">
+        <dex dex="/Users/suresh/FTC/ftc_app/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-FtcCommon-release_e60fad7cd4b5b3a7a21bbf523d2b93e760c6b977.jar" />
+    </item>
+
+</items>
